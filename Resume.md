@@ -77,3 +77,5 @@ Full-stack and blockchain engineer with a passion for cryptography and a deep in
 ## Interests
 
 Writing, painting, filmmaking, and composing music. View some works at [sullo.co](https://sullo.co).
+
+_For contacts, write me a line at sullof@gmail.com_
